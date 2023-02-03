@@ -12,7 +12,7 @@ The first time, get all the dependencies loaded via
 yarn
 ```
 
-in the root directory.
+in the root directory.123
 
 Fetch `backers.json` file by running
 
